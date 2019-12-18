@@ -24,9 +24,7 @@ function NavigationBar(props) {
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">
-                GitHub
-              </NavLink>
+              <NavLink href="https://github.com/raungreen">GitHub</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
